@@ -1,0 +1,2 @@
+# michalgalka.pl
+My portfolio
